@@ -1,0 +1,5 @@
+/* it Limit table width for better readability on large screens */
+.emplyeeData .card {
+  width: 100%;
+  max-width: 900px;
+}

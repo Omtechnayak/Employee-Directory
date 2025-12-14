@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "role": "Frontend Developer",
+      "department": "IT"
+    },
+    {
+      "name": "Jane om",
+      "role": "Backend Developer",
+      "department": "Engineering",
+      "id": "2"
+    },
+    {
+      "id": "56d5",
+      "name": "Ram",
+      "role": "God",
+      "department": "Universe"
+    }
+  ]
+}
